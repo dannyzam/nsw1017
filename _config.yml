@@ -31,6 +31,6 @@ twitter_url: https://twitter.com/andrewbanchich
 
 # build settings
 markdown: kramdown
-
+theme: Forty
 sass:
   style: compressed
